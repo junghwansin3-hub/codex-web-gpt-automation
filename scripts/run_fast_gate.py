@@ -35,6 +35,7 @@ FAST_TARGETS = [
     "tests/test_codex_runtime_identity.py",
     "tests/test_codexpro_cloudflared_launchd.py",
     "tests/test_ultra_economy_mode.py",
+    "tests/test_ai_employee_profiles.py",
 ]
 
 DEFAULT_BUDGET_SECONDS = 60.0
